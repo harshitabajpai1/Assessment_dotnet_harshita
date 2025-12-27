@@ -1,0 +1,15 @@
+C:\dotnet\Assessment\MediSureClinicBilling\bin\Debug\net10.0\MediSureClinicBilling.exe
+C:\dotnet\Assessment\MediSureClinicBilling\bin\Debug\net10.0\MediSureClinicBilling.deps.json
+C:\dotnet\Assessment\MediSureClinicBilling\bin\Debug\net10.0\MediSureClinicBilling.runtimeconfig.json
+C:\dotnet\Assessment\MediSureClinicBilling\bin\Debug\net10.0\MediSureClinicBilling.dll
+C:\dotnet\Assessment\MediSureClinicBilling\bin\Debug\net10.0\MediSureClinicBilling.pdb
+C:\dotnet\Assessment\MediSureClinicBilling\obj\Debug\net10.0\MediSureClinicBilling.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Assessment\MediSureClinicBilling\obj\Debug\net10.0\MediSureClinicBilling.AssemblyInfoInputs.cache
+C:\dotnet\Assessment\MediSureClinicBilling\obj\Debug\net10.0\MediSureClinicBilling.AssemblyInfo.cs
+C:\dotnet\Assessment\MediSureClinicBilling\obj\Debug\net10.0\MediSureClinicBilling.csproj.CoreCompileInputs.cache
+C:\dotnet\Assessment\MediSureClinicBilling\obj\Debug\net10.0\MediSureClinicBilling.sourcelink.json
+C:\dotnet\Assessment\MediSureClinicBilling\obj\Debug\net10.0\MediSureClinicBilling.dll
+C:\dotnet\Assessment\MediSureClinicBilling\obj\Debug\net10.0\refint\MediSureClinicBilling.dll
+C:\dotnet\Assessment\MediSureClinicBilling\obj\Debug\net10.0\MediSureClinicBilling.pdb
+C:\dotnet\Assessment\MediSureClinicBilling\obj\Debug\net10.0\MediSureClinicBilling.genruntimeconfig.cache
+C:\dotnet\Assessment\MediSureClinicBilling\obj\Debug\net10.0\ref\MediSureClinicBilling.dll
